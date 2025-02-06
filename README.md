@@ -3,6 +3,25 @@ Lightweight carriage compatible with SB and XOL
 
 Weight: 20g
 
+# Offset from nozzle
+XOL:
+```
+[beacon]
+...
+x_offset: 0
+y_offset: -23
+...
+```
+Stealthburner:
+```
+[beacon]
+...
+x_offset: 0
+y_offset: -23.5
+...
+```
+
+
 # Where to buy
 https://vitalii3d.etsy.com/listing/1639526932/super-lightweight-carriage-for-voron
 
