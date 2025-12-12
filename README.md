@@ -9,7 +9,7 @@ XOL:
 [beacon]
 ...
 x_offset: 0
-y_offset: 23
+y_offset: 20.6
 ...
 ```
 Stealthburner:
@@ -17,7 +17,7 @@ Stealthburner:
 [beacon]
 ...
 x_offset: 0
-y_offset: 23.5
+y_offset: 20.6
 ...
 ```
 
